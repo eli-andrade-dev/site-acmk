@@ -18,7 +18,7 @@ const Page = () => {
                             <li> <Link to="/Atletas">Nossos Atletas</Link> </li>
                             <li> <Link to="/Contato">Contato</Link> </li>
                             <li> <Link to="/Apoiadores">Apoiadores</Link> </li>
-                           </ul>
+                        </ul>
                     </nav>
             </section>
             

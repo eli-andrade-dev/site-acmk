@@ -1,15 +1,17 @@
 import React from "react";
 import "../Inicio/StyleInicio.css"
-import Familia from "../../assets/familia.png"
 
 function Inicio() {
     return (
-        <section>
+        
+        
+        <section className="inicio">
           
-        <h1>Inicio</h1>
-        
-  
-        
+            <div>
+                <h1 className="titulo">ASSOCIAÇÃO CARDOSO E MORGADO DE KARATÊ</h1> 
+            </div>
+
+                        
         </section>
     );
 }
